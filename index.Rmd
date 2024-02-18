@@ -1,0 +1,29 @@
+--- 
+title: "Baby Rudin"
+author: "Ashan Jayamal"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: https://github.com/ashanjayamal/Baby-Rudin-Analysis.git
+---
+
+# The Real and Complex Number Systems
+
+
+
+
+## Introduction 
+## Ordered Sets 
+## Fields 
+## The Real Field 
+## The Extended Real Number System 
+## The Complex Field 
+## Euclidean Spaces
