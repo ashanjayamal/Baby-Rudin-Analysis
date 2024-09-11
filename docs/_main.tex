@@ -69,7 +69,7 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{plainnat}
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\usepackage{bookmark}
 \IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
 \urlstyle{same}
 \hypersetup{
@@ -80,8 +80,25 @@
 
 \title{Baby Rudin}
 \author{Ashan Jayamal}
-\date{2024-02-19}
+\date{2024-09-11}
 
+\usepackage{amsthm}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{lemma}{Lemma}[chapter]
+\newtheorem{corollary}{Corollary}[chapter]
+\newtheorem{proposition}{Proposition}[chapter]
+\newtheorem{conjecture}{Conjecture}[chapter]
+\theoremstyle{definition}
+\newtheorem{definition}{Definition}[chapter]
+\theoremstyle{definition}
+\newtheorem{example}{Example}[chapter]
+\theoremstyle{definition}
+\newtheorem{exercise}{Exercise}[chapter]
+\theoremstyle{definition}
+\newtheorem{hypothesis}{Hypothesis}[chapter]
+\theoremstyle{remark}
+\newtheorem*{remark}{Remark}
+\newtheorem*{solution}{Solution}
 \begin{document}
 \maketitle
 
@@ -89,38 +106,69 @@
 \setcounter{tocdepth}{1}
 \tableofcontents
 }
-\hypertarget{the-real-and-complex-number-systems}{%
-\chapter{The Real and Complex Number Systems}\label{the-real-and-complex-number-systems}}
+\chapter{The Real and Complex Number Systems}\label{the-real-and-complex-number-systems}
 
-\hypertarget{introduction}{%
-\section{Introduction}\label{introduction}}
+\section{Exercise}\label{exercise}
 
-\hypertarget{ordered-sets}{%
-\section{Ordered Sets}\label{ordered-sets}}
+\begin{exercise}
+\protect\hypertarget{exr:unnamed-chunk-1}{}\label{exr:unnamed-chunk-1}If \(r\) is rational \(r\neq 0\) and x is irrational, prove that \(r + x\) and \(rx\) are irrational.
+\end{exercise}
 
-\hypertarget{fields}{%
-\section{Fields}\label{fields}}
+Suppose that \(0 \neq r \in \mathbb{Q}\) and \(x\in \mathbb{R}\setminus \mathbb{Q}\)
 
-\hypertarget{the-real-field}{%
-\section{The Real Field}\label{the-real-field}}
+\begin{itemize}
+\item
+  \textbf{Claim 1}: \(r+x\) is irrational.\\
+  Assume the contray that \(r+x\in \mathbb{Q}\). Since, \(\mathbb{Q}\) is field,
+  \[x=(r+x)-r\in \mathbb{Q}\]. This is a contradiction. Thus, \(r+x\) is contradiction.
+\item
+  \textbf{Claim 2}: \(rx\) is irrational.\\
+  Assume the contray that \(rx\in \mathbb{Q}\). Since, \(\mathbb{Q}\) is field,
+  \[\left(\frac{1}{x}\right)rx=\left(\frac{1}{x}\right)xr=\left(\frac{1}{x}x\right)r=x\in \mathbb{Q}\]. This is a contradiction. Thus, \(r+x\) is contradiction.
+\end{itemize}
 
-\hypertarget{the-extended-real-number-system}{%
-\section{The Extended Real Number System}\label{the-extended-real-number-system}}
+\begin{exercise}[1:R2]
+\protect\hypertarget{exr:unnamed-chunk-2}{}\label{exr:unnamed-chunk-2}Prove that there is no rational number whose square is 12.
+\end{exercise}
 
-\hypertarget{the-complex-field}{%
-\section{The Complex Field}\label{the-complex-field}}
+\begin{proof}
+First observe that
+\[\sqrt{12}=\sqrt{4\cdot 3}=2\sqrt{3}\]
 
-\hypertarget{euclidean-spaces}{%
-\section{Euclidean Spaces}\label{euclidean-spaces}}
+\textbf{Claim 1} : \(\forall n\in \mathbb{N}3|n^2 \implies 3|n\).\\
+Let \(n\in \mathbb{N}\). Suppose that \(3|n^2\) We know that \(3\) is prime. Then by number theory resuts we can get \(3|n\) or \(3|n\).
+We are done.
 
-\hypertarget{basic-topology}{%
-\chapter{Basic Topology}\label{basic-topology}}
+\textbf{Cliam 2}: \(|sqrt{3}\) is irrartional.\\
+We use inderect proof. Assume contary, \(\sqrt{3}\) is rational. In other words,
+\[\sqrt{3}=\frac{p}{q}\text{  for some } q\in \mathbb{Z} , q\neq 0\text{ and } p,q \text{ have no comman factors.}\]
+Thus,\[3q^2=p^2\]
+Then, by above claim we can get that \(3|p\). Thus, there exists \(k \in \mathbb{Z}\) such that \(3k=p\).
+Thus,
+\[
+\begin{aligned}
+3q^2 &=p^2\\
+3q^2 &= (3k)^2\\
+3q^2 &= 9k^2\\
+q^2  &= 3k^2
+\end{aligned}
+\]
+So, both \(p\) and \(q\) have comman factor 3.This contract our assumption. Thefore, \(\sqrt(3)\) is irrational. So we are done proof of claim 2.
 
-\hypertarget{numerical-sequences-and-series}{%
-\chapter{Numerical Sequences and Series}\label{numerical-sequences-and-series}}
+Since \(\sqrt{3}\) is not a
+\end{proof}
 
-\hypertarget{continuity}{%
-\chapter{Continuity}\label{continuity}}
+\begin{exercise}
+\protect\hypertarget{exr:unnamed-chunk-4}{}\label{exr:unnamed-chunk-4}Let \(E\) be a nonempty subset of an ordered set. Suppose \(\alpha\) is a lower bound of \(E\) and \(\beta\) is an upper bound of \(E\). Prove that \(\alpha \leq \beta\).
+\end{exercise}
+
+Let \(\emptyset \neq E\) is sub set of ordered set.
+
+\chapter{Basic Topology}\label{basic-topology}
+
+\chapter{Numerical Sequences and Series}\label{numerical-sequences-and-series}
+
+\chapter{Continuity}\label{continuity}
 
   \bibliography{book.bib,packages.bib}
 
