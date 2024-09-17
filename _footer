@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Your Name, youremail@example.com
 
 Your Collaborator's Name, anotheremail@example.com
 
 This content was created using 
+=======
+Your Name, youremail@example.com
+
+Your Collaborator's Name, anotheremail@example.com
+
+This content was created using 
+>>>>>>> c3ea06496711e709f9ecfd943544479cffcb2b65
 the Distill for R Markdown template in RStudio.
