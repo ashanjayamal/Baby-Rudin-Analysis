@@ -5,31 +5,25 @@
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Baby Rudin</title>
-  <meta name="description" content="<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p>" />
-  <meta name="generator" content="bookdown 0.37 and GitBook 2.6.7" />
+  <meta name="description" content="This is Babay Rudin Exercises" />
+  <meta name="generator" content="bookdown 0.39 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Baby Rudin" />
   <meta property="og:type" content="book" />
   
-  <meta property="og:description" content="<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p>" />
+  <meta property="og:description" content="This is Babay Rudin Exercises" />
   <meta name="github-repo" content="https://github.com/ashanjayamal/Baby-Rudin-Analysis.git" />
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Baby Rudin" />
   
-  <meta name="twitter:description" content="<p>This is a minimal example of using the bookdown package to write a book.
-The HTML output format for this example is bookdown::gitbook,
-set in the _output.yml file.</p>" />
+  <meta name="twitter:description" content="This is Babay Rudin Exercises" />
   
 
 <meta name="author" content="Ashan Jayamal" />
 
 
-<meta name="date" content="2024-02-19" />
+<meta name="date" content="2024-09-17" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -84,13 +78,7 @@ set in the _output.yml file.</p>" />
 <li class="divider"></li>
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> The Real and Complex Number Systems</a>
 <ul>
-<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#introduction"><i class="fa fa-check"></i><b>1.1</b> Introduction</a></li>
-<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#ordered-sets"><i class="fa fa-check"></i><b>1.2</b> Ordered Sets</a></li>
-<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#fields"><i class="fa fa-check"></i><b>1.3</b> Fields</a></li>
-<li class="chapter" data-level="1.4" data-path="index.html"><a href="index.html#the-real-field"><i class="fa fa-check"></i><b>1.4</b> The Real Field</a></li>
-<li class="chapter" data-level="1.5" data-path="index.html"><a href="index.html#the-extended-real-number-system"><i class="fa fa-check"></i><b>1.5</b> The Extended Real Number System</a></li>
-<li class="chapter" data-level="1.6" data-path="index.html"><a href="index.html#the-complex-field"><i class="fa fa-check"></i><b>1.6</b> The Complex Field</a></li>
-<li class="chapter" data-level="1.7" data-path="index.html"><a href="index.html#euclidean-spaces"><i class="fa fa-check"></i><b>1.7</b> Euclidean Spaces</a></li>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#exercise"><i class="fa fa-check"></i><b>1.1</b> Exercise</a></li>
 </ul></li>
 <li class="chapter" data-level="2" data-path="basic-topology.html"><a href="basic-topology.html"><i class="fa fa-check"></i><b>2</b> Basic Topology</a></li>
 <li class="chapter" data-level="3" data-path="numerical-sequences-and-series.html"><a href="numerical-sequences-and-series.html"><i class="fa fa-check"></i><b>3</b> Numerical Sequences and Series</a></li>
@@ -118,30 +106,57 @@ set in the _output.yml file.</p>" />
 <div id="header">
 <h1 class="title">Baby Rudin</h1>
 <p class="author"><em>Ashan Jayamal</em></p>
-<p class="date"><em>2024-02-19</em></p>
+<p class="date"><em>2024-09-17</em></p>
 </div>
 <div id="the-real-and-complex-number-systems" class="section level1 hasAnchor" number="1">
 <h1><span class="header-section-number">Chapter 1</span> The Real and Complex Number Systems<a href="index.html#the-real-and-complex-number-systems" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<div id="introduction" class="section level2 hasAnchor" number="1.1">
-<h2><span class="header-section-number">1.1</span> Introduction<a href="index.html#introduction" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="exercise" class="section level2 hasAnchor" number="1.1">
+<h2><span class="header-section-number">1.1</span> Exercise<a href="index.html#exercise" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div class="exercise">
+<p><span id="exr:unnamed-chunk-1" class="exercise"><strong>Exercise 1.1  </strong></span>If <span class="math inline">\(r\)</span> is rational <span class="math inline">\(r\neq 0\)</span> and x is irrational, prove that <span class="math inline">\(r + x\)</span> and <span class="math inline">\(rx\)</span> are irrational.</p>
 </div>
-<div id="ordered-sets" class="section level2 hasAnchor" number="1.2">
-<h2><span class="header-section-number">1.2</span> Ordered Sets<a href="index.html#ordered-sets" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Suppose that <span class="math inline">\(0 \neq r \in \mathbb{Q}\)</span> and <span class="math inline">\(x\in \mathbb{R}\setminus \mathbb{Q}\)</span></p>
+<ul>
+<li><p><strong>Claim 1</strong>: <span class="math inline">\(r+x\)</span> is irrational.<br />
+Assume the contray that <span class="math inline">\(r+x\in \mathbb{Q}\)</span>. Since, <span class="math inline">\(\mathbb{Q}\)</span> is field,
+<span class="math display">\[x=(r+x)-r\in \mathbb{Q}\]</span>. This is a contradiction. Thus, <span class="math inline">\(r+x\)</span> is contradiction.</p></li>
+<li><p><strong>Claim 2</strong>: <span class="math inline">\(rx\)</span> is irrational.<br />
+Assume the contray that <span class="math inline">\(rx\in \mathbb{Q}\)</span>. Since, <span class="math inline">\(\mathbb{Q}\)</span> is field,
+<span class="math display">\[\left(\frac{1}{x}\right)rx=\left(\frac{1}{x}\right)xr=\left(\frac{1}{x}x\right)r=x\in \mathbb{Q}\]</span>. This is a contradiction. Thus, <span class="math inline">\(r+x\)</span> is contradiction.</p></li>
+</ul>
+<div class="exercise">
+<p><span id="exr:unnamed-chunk-2" class="exercise"><strong>Exercise 1.2  (1:R2) </strong></span>Prove that there is no rational number whose square is 12.</p>
 </div>
-<div id="fields" class="section level2 hasAnchor" number="1.3">
-<h2><span class="header-section-number">1.3</span> Fields<a href="index.html#fields" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div class="proof">
+<p><span id="unlabeled-div-1" class="proof"><em>Proof</em>. </span>First observe that
+<span class="math display">\[\sqrt{12}=\sqrt{4\cdot 3}=2\sqrt{3}\]</span></p>
+<p><strong>Claim 1</strong> : <span class="math inline">\(\forall n\in \mathbb{N}3|n^2 \implies 3|n\)</span>.<br />
+Let <span class="math inline">\(n\in \mathbb{N}\)</span>. Suppose that <span class="math inline">\(3|n^2\)</span> We know that <span class="math inline">\(3\)</span> is prime. Then by number theory resuts we can get <span class="math inline">\(3|n\)</span> or <span class="math inline">\(3|n\)</span>.
+We are done.</p>
+<p><strong>Cliam 2</strong>: <span class="math inline">\(\sqrt{3}\)</span> is irrartional.<br />
+We use inderect proof. Assume contary, <span class="math inline">\(\sqrt{3}\)</span> is rational. In other words,
+<span class="math display">\[\sqrt{3}=\frac{p}{q}\text{  for some } q\in \mathbb{Z} , q\neq 0\text{ and } p,q \text{ have no comman factors.}\]</span>
+Thus,<span class="math display">\[3q^2=p^2\]</span>
+Then, by above claim we can get that <span class="math inline">\(3|p\)</span>. Thus, there exists <span class="math inline">\(k \in \mathbb{Z}\)</span> such that <span class="math inline">\(3k=p\)</span>.
+Thus,
+<span class="math display">\[
+\begin{aligned}
+3q^2 &amp;=p^2\\
+3q^2 &amp;= (3k)^2\\
+3q^2 &amp;= 9k^2\\
+q^2  &amp;= 3k^2
+\end{aligned}
+\]</span>
+So, both <span class="math inline">\(p\)</span> and <span class="math inline">\(q\)</span> have comman factor 3.This contract our assumption. Thefore, <span class="math inline">\(\sqrt(3)\)</span> is irrational. So we are done proof of claim 2.</p>
+<p>Since, <span class="math inline">\(\sqrt{3}\)</span> is not a rational number. Thus <span class="math inline">\(\sqrt{3}\)</span> is irrational number.</p>
 </div>
-<div id="the-real-field" class="section level2 hasAnchor" number="1.4">
-<h2><span class="header-section-number">1.4</span> The Real Field<a href="index.html#the-real-field" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div class="exercise">
+<p><span id="exr:unnamed-chunk-4" class="exercise"><strong>Exercise 1.3  </strong></span>Prove Proposition 1.15.</p>
 </div>
-<div id="the-extended-real-number-system" class="section level2 hasAnchor" number="1.5">
-<h2><span class="header-section-number">1.5</span> The Extended Real Number System<a href="index.html#the-extended-real-number-system" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div class="exercise">
+<p><span id="exr:unnamed-chunk-5" class="exercise"><strong>Exercise 1.4  </strong></span>Let <span class="math inline">\(E\)</span> be a nonempty subset of an ordered set. Suppose <span class="math inline">\(\alpha\)</span> is a lower bound of <span class="math inline">\(E\)</span> and <span class="math inline">\(\beta\)</span> is an upper bound of <span class="math inline">\(E\)</span>. Prove that <span class="math inline">\(\alpha \leq \beta\)</span>.</p>
 </div>
-<div id="the-complex-field" class="section level2 hasAnchor" number="1.6">
-<h2><span class="header-section-number">1.6</span> The Complex Field<a href="index.html#the-complex-field" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-</div>
-<div id="euclidean-spaces" class="section level2 hasAnchor" number="1.7">
-<h2><span class="header-section-number">1.7</span> Euclidean Spaces<a href="index.html#euclidean-spaces" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Let <span class="math inline">\(\emptyset \neq E\)</span> is sub set of ordered set.</p>
 
 </div>
 </div>
@@ -182,7 +197,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/USERNAME/REPO/edit/BRANCH/index.Rmd",
+"link": "https://github.com/ashanjayamal/Baby-Rudin-Analysis/index.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -193,7 +208,7 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": ["_main.pdf", "_main.epub"],
+"download": ["_main.pdf"],
 "search": {
 "engine": "fuse",
 "options": null
@@ -205,6 +220,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
