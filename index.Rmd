@@ -40,7 +40,7 @@ First observe that
 Let $n\in \mathbb{N}$. Suppose that $3|n^2$ We know that $3$ is prime. Then by number theory resuts we can get $3|n$ or $3|n$.
 We are done.
 
-**Cliam 2**: $|sqrt{3}$ is irrartional.\
+**Cliam 2**: $\sqrt{3}$ is irrartional.\
 We use inderect proof. Assume contary, $\sqrt{3}$ is rational. In other words,
 \[\sqrt{3}=\frac{p}{q}\text{  for some } q\in \mathbb{Z} , q\neq 0\text{ and } p,q \text{ have no comman factors.}\]
 Thus,\[3q^2=p^2\]
@@ -56,9 +56,13 @@ q^2  &= 3k^2
 $$
 So, both $p$ and $q$ have comman factor 3.This contract our assumption. Thefore, $\sqrt(3)$ is irrational. So we are done proof of claim 2.
 
-Since $\sqrt{3}$ is not a 
+Since, $\sqrt{3}$ is not a rational number. Thus $\sqrt{3}$ is irrational number. 
 
 
+```
+
+```{exercise}
+Prove Proposition 1.15.
 ```
 
 ```{exercise}
