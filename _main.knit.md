@@ -1,0 +1,129 @@
+--- 
+title: "Baby Rudin"
+author: "Ashan Jayamal"
+date: "2024-09-21"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+description: |
+  This is Babay Rudin Exercises
+link-citations: yes
+github-repo: https://github.com/ashanjayamal/Baby-Rudin-Analysis.git
+---
+
+# The Real and Complex Number Systems
+
+## Exercise
+
+::: {.exercise #unnamed-chunk-1}
+If $r$ is rational $r\neq 0$ and x is irrational, prove that $r + x$ and $rx$ are irrational.
+:::
+Suppose that  $0 \neq r \in \mathbb{Q}$ and $x\in \mathbb{R}\setminus \mathbb{Q}$
+
+- **Claim 1**: $r+x$ is irrational.\
+Assume the contray that $r+x\in \mathbb{Q}$. Since, $\mathbb{Q}$ is field,
+\[x=(r+x)-r\in \mathbb{Q}\]. This is a contradiction. Thus, $r+x$ is contradiction.
+
+- **Claim 2**: $rx$ is irrational.\
+Assume the contray that $rx\in \mathbb{Q}$. Since, $\mathbb{Q}$ is field,
+\[\left(\frac{1}{x}\right)rx=\left(\frac{1}{x}\right)xr=\left(\frac{1}{x}x\right)r=x\in \mathbb{Q}\]. This is a contradiction. Thus, $r+x$ is contradiction.
+
+::: {.exercise #unnamed-chunk-2 name="1:R2"}
+Prove that there is no rational number whose square is 12.
+:::
+
+::: {.proof}
+First observe that 
+\[\sqrt{12}=\sqrt{4\cdot 3}=2\sqrt{3}\]
+
+**Claim 1** : $\forall n\in \mathbb{N}3|n^2 \implies 3|n$.\
+Let $n\in \mathbb{N}$. Suppose that $3|n^2$ We know that $3$ is prime. Then by number theory resuts we can get $3|n$ or $3|n$.
+We are done.
+
+**Cliam 2**: $\sqrt{3}$ is irrartional.\
+We use inderect proof. Assume contary, $\sqrt{3}$ is rational. In other words,
+\[\sqrt{3}=\frac{p}{q}\text{  for some } q\in \mathbb{Z} , q\neq 0\text{ and } p,q \text{ have no comman factors.}\]
+Thus,\[3q^2=p^2\]
+Then, by above claim we can get that $3|p$. Thus, there exists $k \in \mathbb{Z}$ such that $3k=p$. 
+Thus, 
+$$
+\begin{aligned}
+3q^2 &=p^2\\
+3q^2 &= (3k)^2\\
+3q^2 &= 9k^2\\
+q^2  &= 3k^2
+\end{aligned}
+$$
+So, both $p$ and $q$ have comman factor 3.This contract our assumption. Thefore, $\sqrt(3)$ is irrational. So we are done proof of claim 2.
+
+Since, $\sqrt{3}$ is not a rational number. Thus $\sqrt{3}$ is irrational number. 
+
+
+:::
+
+::: {.exercise #unnamed-chunk-4}
+Prove Proposition 1.15.
+:::
+
+::: {.exercise #unnamed-chunk-5}
+Let \( E \) be a nonempty subset of an ordered set. Suppose \( \alpha \) is a lower bound of \( E \) and \( \beta \) is an upper bound of \( E \). Prove that \( \alpha \leq \beta \).
+:::
+
+
+## Written Answers
+![](Figures\Ex-1\Rudin-Ex (1).png)
+![](Figures\Ex-1\Rudin-Ex (2).png)
+![](Figures\Ex-1\Rudin-Ex (3).png)
+![](Figures\Ex-1\Rudin-Ex (4).png)
+![](Figures\Ex-1\Rudin-Ex (5).png)
+![](Figures\Ex-1\Rudin-Ex (6).png)
+![](Figures\Ex-1\Rudin-Ex (7).png)
+![](Figures\Ex-1\Rudin-Ex (8).png)
+![](Figures\Ex-1\Rudin-Ex (9).png)
+![](Figures\Ex-1\Rudin-Ex (10).png)
+![](Figures\Ex-1\Rudin-Ex (11).png)
+![](Figures\Ex-1\Rudin-Ex (12).png)
+![](Figures\Ex-1\Rudin-Ex (13).png)
+![](Figures\Ex-1\Rudin-Ex (14).png)
+![](Figures\Ex-1\Rudin-Ex (15).png)
+![](Figures\Ex-1\Rudin-Ex (16).png)
+![](Figures\Ex-1\Rudin-Ex (17).png)
+![](Figures\Ex-1\Rudin-Ex (18).png)
+![](Figures\Ex-1\Rudin-Ex (19).png)
+![](Figures\Ex-1\Rudin-Ex (20).png)
+![](Figures\Ex-1\Rudin-Ex (21).png)
+![](Figures\Ex-1\Rudin-Ex (22).png)
+![](Figures\Ex-1\Rudin-Ex (23).png)
+![](Figures\Ex-1\Rudin-Ex (24).png)
+![](Figures\Ex-1\Rudin-Ex (25).png)
+![](Figures\Ex-1\Rudin-Ex (26).png)
+![](Figures\Ex-1\Rudin-Ex (27).png)
+![](Figures\Ex-1\Rudin-Ex (28).png)
+![](Figures\Ex-1\Rudin-Ex (29).png)
+![](Figures\Ex-1\Rudin-Ex (30).png)
+![](Figures\Ex-1\Rudin-Ex (31).png)
+![](Figures\Ex-1\Rudin-Ex (32).png)
+![](Figures\Ex-1\Rudin-Ex (33).png)
+![](Figures\Ex-1\Rudin-Ex (34).png)
+![](Figures\Ex-1\Rudin-Ex (35).png)
+
+
+
+
+
+<!--chapter:end:index.Rmd-->
+
+# Basic Topology
+
+## Exercise 
+
+<!--chapter:end:01-Chapter2BasicTopology.Rmd-->
+
+# Numerical Sequences and Series
+
+<!--chapter:end:02-Chapter3NumericalSequencesandSeries.Rmd-->
+
+# Continuity
+
+<!--chapter:end:03-Continuity.Rmd-->
+
