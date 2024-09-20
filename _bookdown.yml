@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 delete_merged_file: true
 language:
   ui:
     chapter_name: "Chapter "
-=======
-delete_merged_file: true
-language:
-  ui:
-    chapter_name: "Chapter "
->>>>>>> c3ea06496711e709f9ecfd943544479cffcb2b65
 output_dir: "docs"
