@@ -70,5 +70,43 @@ Let \( E \) be a nonempty subset of an ordered set. Suppose \( \alpha \) is a lo
 ```
 
 
-Let $\emptyset \neq E$ is sub set of ordered set. 
+## Written Answers
+![](Figures\Ex-1\Rudin-Ex (1).png)
+![](Figures\Ex-1\Rudin-Ex (2).png)
+![](Figures\Ex-1\Rudin-Ex (3).png)
+![](Figures\Ex-1\Rudin-Ex (4).png)
+![](Figures\Ex-1\Rudin-Ex (5).png)
+![](Figures\Ex-1\Rudin-Ex (6).png)
+![](Figures\Ex-1\Rudin-Ex (7).png)
+![](Figures\Ex-1\Rudin-Ex (8).png)
+![](Figures\Ex-1\Rudin-Ex (9).png)
+![](Figures\Ex-1\Rudin-Ex (10).png)
+![](Figures\Ex-1\Rudin-Ex (11).png)
+![](Figures\Ex-1\Rudin-Ex (12).png)
+![](Figures\Ex-1\Rudin-Ex (13).png)
+![](Figures\Ex-1\Rudin-Ex (14).png)
+![](Figures\Ex-1\Rudin-Ex (15).png)
+![](Figures\Ex-1\Rudin-Ex (16).png)
+![](Figures\Ex-1\Rudin-Ex (17).png)
+![](Figures\Ex-1\Rudin-Ex (18).png)
+![](Figures\Ex-1\Rudin-Ex (19).png)
+![](Figures\Ex-1\Rudin-Ex (20).png)
+![](Figures\Ex-1\Rudin-Ex (21).png)
+![](Figures\Ex-1\Rudin-Ex (22).png)
+![](Figures\Ex-1\Rudin-Ex (23).png)
+![](Figures\Ex-1\Rudin-Ex (24).png)
+![](Figures\Ex-1\Rudin-Ex (25).png)
+![](Figures\Ex-1\Rudin-Ex (26).png)
+![](Figures\Ex-1\Rudin-Ex (27).png)
+![](Figures\Ex-1\Rudin-Ex (28).png)
+![](Figures\Ex-1\Rudin-Ex (29).png)
+![](Figures\Ex-1\Rudin-Ex (30).png)
+![](Figures\Ex-1\Rudin-Ex (31).png)
+![](Figures\Ex-1\Rudin-Ex (32).png)
+![](Figures\Ex-1\Rudin-Ex (33).png)
+![](Figures\Ex-1\Rudin-Ex (34).png)
+![](Figures\Ex-1\Rudin-Ex (35).png)
+
+
+
 

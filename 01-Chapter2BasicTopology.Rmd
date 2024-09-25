@@ -1,1 +1,25 @@
 # Basic Topology
+
+## Finite, Countable and uncountable
+
+## Exercise
+### pdf file
+> a **For pdf file** [click me](pdf_docs/Rudin Ch2.pdf)
+
+### Images
+![](Figures\Ex-2\Rudin Ch2-1.png)
+![](Figures\Ex-2\Rudin Ch2-2.png)
+![](Figures\Ex-2\Rudin Ch2-3.png)
+![](Figures\Ex-2\Rudin Ch2-4.png)
+![](Figures\Ex-2\Rudin Ch2-5.png)
+![](Figures\Ex-2\Rudin Ch2-6.png)
+![](Figures\Ex-2\Rudin Ch2-7.png)
+![](Figures\Ex-2\Rudin Ch2-8.png)
+![](Figures\Ex-2\Rudin Ch2-9.png)
+![](Figures\Ex-2\Rudin Ch2-10.png)
+![](Figures\Ex-2\Rudin Ch2-11.png)
+![](Figures\Ex-2\Rudin Ch2-12.png)
+![](Figures\Ex-2\Rudin Ch2-13.png)
+![](Figures\Ex-2\Rudin Ch2-14.png)
+![](Figures\Ex-2\Rudin Ch2-15.png)
+
