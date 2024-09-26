@@ -4,10 +4,10 @@
 ## Finite, Countable and uncountable
 
 ## Exercise
-### pdf file
+##### pdf file
 > a **For pdf file** [click me](pdf_docs/Rudin Ch2.pdf)
 
-### Images
+##### Images
 ![](Figures\Ex-2\Rudin Ch2-1.png)
 ![](Figures\Ex-2\Rudin Ch2-2.png)
 ![](Figures\Ex-2\Rudin Ch2-3.png)
