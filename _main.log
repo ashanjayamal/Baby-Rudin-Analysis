@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  23 SEP 2024 17:17
+=======
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.9.20)  21 SEP 2024 00:38
+>>>>>>> d6fc62c990d7f2bd626a19c3a3171b2aa5695ff7
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -98,6 +102,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 )) (c:/Users/RIENZIE/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (c:/Users/RIENZIE/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (c:/Users/RIENZIE/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+<<<<<<< HEAD
 Package: expl3 2024-08-30 L3 programming layer (loader) 
 (c:/Users/RIENZIE/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
@@ -763,3 +768,6 @@ File: Figures/Ex-1/Rudin-Ex (15).png Graphic file (type bmp)
 File: Figures/Ex-1/Rudin-Ex (16).png Graphic file (type bmp)
 <Figures/Ex-1/Rudin-Ex (16).png>
 File:
+=======
+Package: expl3 2024-08-30 L3 programming layer (loa
+>>>>>>> d6fc62c990d7f2bd626a19c3a3171b2aa5695ff7

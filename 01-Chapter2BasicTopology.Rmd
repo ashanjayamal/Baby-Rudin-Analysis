@@ -1,5 +1,6 @@
 # Basic Topology
 
+
 ## Finite, Countable and uncountable
 
 ## Exercise
@@ -23,3 +24,6 @@
 ![](Figures\Ex-2\Rudin Ch2-14.png)
 ![](Figures\Ex-2\Rudin Ch2-15.png)
 
+=======
+## Exercise 
+>>>>>>> d6fc62c990d7f2bd626a19c3a3171b2aa5695ff7
