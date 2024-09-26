@@ -8,3 +8,8 @@ pdf-file
 images
 numerical-sequences-and-series
 continuity
+exr:unnamed-chunk-1
+exr:unnamed-chunk-2
+exr:unnamed-chunk-4
+exr:unnamed-chunk-5
+pdf-file-1
