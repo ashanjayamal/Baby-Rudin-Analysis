@@ -5,7 +5,12 @@
 
 ## Exercise
 ##### pdf file
-> a **For pdf file** [click me](pdf_docs/Rudin Ch2.pdf)
+
+**For pdf file** 
+
+- [Part 1](pdf_docs/Rudin Ch2.1.pdf)
+- [Part 2](pdf_docs/Rudin Ch2.2.pdf)
+
 
 ##### Images
 ![](Figures\Ex-2\Rudin Ch2-1.png)
@@ -23,7 +28,32 @@
 ![](Figures\Ex-2\Rudin Ch2-13.png)
 ![](Figures\Ex-2\Rudin Ch2-14.png)
 ![](Figures\Ex-2\Rudin Ch2-15.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-1.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-2.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-3.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-4.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-5.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-6.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-7.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-8.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-9.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-10.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-11.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-12.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-13.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-14.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-15.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-16.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-17.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-18.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-19.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-20.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-21.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-22.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-23.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-24.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-25.png)
+![](Figures/Ex-2/Rudin Ch2-1/Rudin Ch2-1-26.png)
 
-=======
-## Exercise 
->>>>>>> d6fc62c990d7f2bd626a19c3a3171b2aa5695ff7
+
+
