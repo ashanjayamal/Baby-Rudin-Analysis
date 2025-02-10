@@ -22,7 +22,7 @@ github-repo: https://github.com/ashanjayamal/Baby-Rudin-Analysis.git
 
 - [Part 1](pdf_docs/Rudin Ch1.1.pdf) 
 - [Part 2](pdf_docs/Rudin Ch1.2.pdf)
-
+- [Part 3](pdf_docs/Rudin Ch1.3.pdf)
 
 ```{exercise}
 If $r$ is rational $r\neq 0$ and x is irrational, prove that $r + x$ and $rx$ are irrational.
