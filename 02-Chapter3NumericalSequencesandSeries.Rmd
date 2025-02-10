@@ -1,1 +1,53 @@
 # Numerical Sequences and Series
+
+## Exercise
+##### pdf file
+
+**For pdf file** 
+
+- [Part 1](pdf_docs/Rudin Ch3.1.pdf)
+
+##### Images
+
+![](Figures\Ex-3\ch3-1.png)
+![](Figures\Ex-3\ch3-2.png)
+![](Figures\Ex-3\ch3-3.png)
+![](Figures\Ex-3\ch3-4.png)
+![](Figures\Ex-3\ch3-5.png)
+![](Figures\Ex-3\ch3-6.png)
+![](Figures\Ex-3\ch3-7.png)
+![](Figures\Ex-3\ch3-8.png)
+![](Figures\Ex-3\ch3-9.png)
+![](Figures\Ex-3\ch3-10.png)
+![](Figures\Ex-3\ch3-11.png)
+![](Figures\Ex-3\ch3-12.png)
+![](Figures\Ex-3\ch3-13.png)
+![](Figures\Ex-3\ch3-14.png)
+![](Figures\Ex-3\ch3-15.png)
+![](Figures\Ex-3\ch3-16.png)
+![](Figures\Ex-3\ch3-17.png)
+![](Figures\Ex-3\ch3-18.png)
+![](Figures\Ex-3\ch3-19.png)
+![](Figures\Ex-3\ch3-20.png)
+![](Figures\Ex-3\ch3-21.png)
+![](Figures\Ex-3\ch3-22.png)
+![](Figures\Ex-3\ch3-23.png)
+![](Figures\Ex-3\ch3-24.png)
+![](Figures\Ex-3\ch3-25.png)
+![](Figures\Ex-3\ch3-26.png)
+![](Figures\Ex-3\ch3-27.png)
+![](Figures\Ex-3\ch3-28.png)
+![](Figures\Ex-3\ch3-29.png)
+![](Figures\Ex-3\ch3-30.png)
+![](Figures\Ex-3\ch3-31.png)
+![](Figures\Ex-3\ch3-32.png)
+![](Figures\Ex-3\ch3-33.png)
+![](Figures\Ex-3\ch3-34.png)
+![](Figures\Ex-3\ch3-35.png)
+![](Figures\Ex-3\ch3-36.png)
+![](Figures\Ex-3\ch3-37.png)
+![](Figures\Ex-3\ch3-38.png)
+![](Figures\Ex-3\ch3-39.png)
+![](Figures\Ex-3\ch3-40.png)
+![](Figures\Ex-3\ch3-41.png)
+![](Figures\Ex-3\ch3-42.png)

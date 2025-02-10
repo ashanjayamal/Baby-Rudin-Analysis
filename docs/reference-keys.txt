@@ -12,4 +12,7 @@ exercise-1
 pdf-file-1
 images
 numerical-sequences-and-series
+exercise-2
+pdf-file-2
+images-1
 continuity
